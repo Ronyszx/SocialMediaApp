@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.parse-community.Parse-SDK-Android:parse:1.20.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/283f89cc0520e0439631730f5196cbfa/jetified-parse-1.20.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/283f89cc0520e0439631730f5196cbfa/jetified-parse-1.20.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/283f89cc0520e0439631730f5196cbfa/jetified-parse-1.20.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7f9913a0cafc76b30669ef613f62ee15/transformed/jetified-parse-1.20.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7f9913a0cafc76b30669ef613f62ee15/transformed/jetified-parse-1.20.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7f9913a0cafc76b30669ef613f62ee15/transformed/jetified-parse-1.20.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.parse-community.Parse-SDK-Android/parse/1.20.0/99ec854af1219e07a687ff321232865733b77667/parse-1.20.0-javadoc.jar!/" />
